@@ -3,23 +3,13 @@ swiggy app backend database connected with mongoose db with sample api documents
 
 install :
 
-npm install 
+Step 1 : Clone the repository
 
-create app folder
+Step 2 : npm install
+ 
+Step 3 : running a file in terminal : node server.js 
 
-inside app folder create three folder such as routes, controllers, models
-
-inside routes folder paste all route.js file
-
-inside controller folder paste all controller.js file
-
-inside model folder paste all model.js file
-
-create config folder in root directory and paste config.js file inside the config folder
-
-running a file in terminal : node server.js 
-
-using postman tool to give get , post , update and delete request
+Step 4 : use postman tool to give get , post , update and delete request
 
 In this Api we using food-db database inside we have two collections one is customers and another is orders
 
